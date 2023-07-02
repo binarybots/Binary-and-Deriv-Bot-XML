@@ -30,7 +30,7 @@ Step 1 : Go to https://bot.binary.com or https://app.deriv.com \
 Step 2 : Upload the downloaded .xml file \
 Step 3 : Run the bot \
 Step 4 : Make money \
-Step 5 :Monitor the bot's performance and make adjustments as needed \
+Step 5 :Monitor the bot's performance and make adjustments as needed 
 
 
 ![AI-Fintech](https://user-images.githubusercontent.com/57016982/170944162-b0775598-289a-49a3-85c6-2c0af545741c.jpg)
