@@ -39,7 +39,7 @@ Please note that these bots are intended for experienced traders who are familia
 
 </p>
 
-## 😄 Want to help keeping the project?<br>
+ # 😄 Want to help keeping the project?<br>
 
 You want to contribute to the project? 
 Make a donation on.
@@ -71,26 +71,25 @@ I created this combo to help people so that they can test more bot and they can 
 
 Some of the best bots you can test to your account
 
-# BINARY BOT THE DOLLAR PATH PRO BY LEWIS LUSEKA (GITHUB) +254111421356.xml
-# DERIV BOT RISEFALL (AxB) BY LEWIS LUSEKA (GITHUB) +254111421356.xml
-# BinaryBotsAfrica [BBA] Free Asians Bot.xml
-# BinaryBotsAfrica [BBA] Free Rise and Fall Bot.xml
-# BinaryBotsAfrica [BBA] Free Touch Bot.xml
-# 1 Tick DigitDiffer.xml
-# Binogator Gecko Lite v22.06.14.xml
-# Binogator Gecko Pro v22.07.18.xml
-# DIGIT DIFFER AABA.xml
-# Binogator Mantis (free bot) 22.06.10.xml
-# DigitDiff_NO_M_V1.xml
-# Binogator Scuba v22.0.29.xml
-# EVENODD BREAKER.xml
-# Digit Prime Strategy.xml
-# PUT-Lower-v2.xml
-# Lewis Luseka +254111421356 Trade Bot.xml
-# RISE FALL MARUBOZU 3.xml
-# Premium Digit Pairing .xml
-# RISE FALL RANGER.xml
-# And All the manuall strategy...
+## BINARY BOT THE DOLLAR PATH PRO BY LEWIS LUSEKA (GITHUB) +254111421356.xml
+## DERIV BOT RISEFALL (AxB) BY LEWIS LUSEKA (GITHUB) +254111421356.xml
+## BinaryBotsAfrica [BBA] Free Asians Bot.xml
+## BinaryBotsAfrica [BBA] Free Rise and Fall Bot.xml
+## BinaryBotsAfrica [BBA] Free Touch Bot.xml
+## 1 Tick DigitDiffer.xml
+## Binogator Gecko Pro v22.07.18.xml
+## DIGIT DIFFER AABA.xml
+## Binogator Mantis (free bot) 22.06.10.xml
+## DigitDiff_NO_M_V1.xml
+## Binogator Scuba v22.0.29.xml
+## EVENODD BREAKER.xml
+## Digit Prime Strategy.xml
+## PUT-Lower-v2.xml
+## Lewis Luseka +254111421356 Trade Bot.xml
+## RISE FALL MARUBOZU 3.xml
+## Premium Digit Pairing .xml
+## RISE FALL RANGER.xml
+## And All the manuall strategy...
 
 If you want to get bot/strategy one by one, 
 
@@ -99,7 +98,7 @@ We accept skrill/paypal/perfect money/btc/ card payment.
 Contact me through lewisluseka@gmail.com OR by WhatsApp +254111421356
 
 
-## Tips
+# Tips
 
 - Always use proper risk management strategies, such as stop loss orders, when using these bots.
 - Test the bots on a demo account before using them on a live account.
@@ -107,16 +106,16 @@ Contact me through lewisluseka@gmail.com OR by WhatsApp +254111421356
 - Do your own research and seek professional advice before making any investment decisions.
 - Keep in mind that past performance does not guarantee future results.
 
-## Conclusion
+# Conclusion
 
 Binary Bot & Deriv Bot can be a powerful tool for automating binary options trading strategies, but it is important to use them with caution. Always use proper risk management and test the bots thoroughly before using them on live accounts. If you want to maximize your chances of success, do your own research and seek professional advice before making any investment decisions.
 
 
-## Support
+# Support
 
 If you have any questions or issues related to the use of the bots, please feel free to contact the developer at lewisluseka@gmail.com. Additionally, you can also seek support from the Binary.com or Deriv.com community.
 
-## Contribute
+# Contribute
 
 If you are interested in contributing to the project, you can do so by:
 - Submitting bug reports and feature requests on the GitHub repository
@@ -127,7 +126,7 @@ If you are interested in contributing to the project, you can do so by:
 
 We are always open to contributions, big or small, that help improve the project.
 
-## License
+# License
 
 This project is licensed under the MIT License.
 
