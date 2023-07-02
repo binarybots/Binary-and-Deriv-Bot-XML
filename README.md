@@ -24,7 +24,7 @@ This bot frequently delivered a modest rate of return but a high winning rate. W
 To make a trading decision, we develop a strategy that includes, among other things, tick movement, indicators, last digit analysis, last digit pattern, trend analysis, and visual experience.
 </p>
 
-# How to Start :
+# How to Start  :
 
 Step 1 : Go to https://bot.binary.com or https://app.deriv.com \
 Step 2 : Upload the downloaded .xml file \
