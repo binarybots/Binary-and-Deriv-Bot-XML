@@ -71,8 +71,25 @@ I created this combo to help people so that they can test more bot and they can 
 
 Some of the best bots you can test to your account
 
-# MatchBox
-#
+# BINARY BOT THE DOLLAR PATH PRO BY LEWIS LUSEKA (GITHUB) +254111421356.xml
+# DERIV BOT RISEFALL (AxB) BY LEWIS LUSEKA (GITHUB) +254111421356.xml
+# BinaryBotsAfrica [BBA] Free Asians Bot.xml
+# BinaryBotsAfrica [BBA] Free Rise and Fall Bot.xml
+# BinaryBotsAfrica [BBA] Free Touch Bot.xml
+# 1 Tick DigitDiffer.xml
+# Binogator Gecko Lite v22.06.14.xml
+# Binogator Gecko Pro v22.07.18.xml
+# DIGIT DIFFER AABA.xml
+# Binogator Mantis (free bot) 22.06.10.xml
+# DigitDiff_NO_M_V1.xml
+# Binogator Scuba v22.0.29.xml
+# EVENODD BREAKER.xml
+# Digit Prime Strategy.xml
+# PUT-Lower-v2.xml
+# Lewis Luseka +254111421356 Trade Bot.xml
+# RISE FALL MARUBOZU 3.xml
+# Premium Digit Pairing .xml
+# RISE FALL RANGER.xml
 # And All the manuall strategy...
 
 If you want to get bot/strategy one by one, 
