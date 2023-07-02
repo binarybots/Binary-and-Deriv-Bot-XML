@@ -9,14 +9,7 @@ Binary Bot & Deriv Bot
 </p>
 
 
-<p align="center">
 
-<a href="https://github.com/Lewisluseka/Binary-Deriv-Bot-XML/blob/master/LICENCE">
- <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="Binary-Bot-XML is released under the MIT license." />
-  </a>
- 
- 
-</p>
 
 <p align="center">
   <strong>
@@ -131,5 +124,5 @@ We are always open to contributions, big or small, that help improve the project
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](https://github.com/Tr-reny/Binary-Bot-XML/blob/master/LICENCE) file for details.
+This project is licensed under the MIT License.
 
