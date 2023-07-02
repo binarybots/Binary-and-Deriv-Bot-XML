@@ -49,7 +49,7 @@ https://www.buymeacoffee.com/lewisluseka \
 Thanks in advance 
 
 
-<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=4R7Y853ARZGB2&source=url">
+<a href="https://www.paypal.com/donate/?hosted_button_id=X7BD358658J8W">
     <img src="https://raw.githubusercontent.com/iqoptionapi/iqoptionapi/master/docs/paypal-donate-button.png"
         alt="English" width="200" height="80" />
         </a>
