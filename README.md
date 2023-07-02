@@ -72,19 +72,7 @@ I created this combo to help people so that they can test more bot and they can 
 Some of the best bots you can test to your account
 
 # MatchBox
-# BogatPro
-# Dollar Path
-# MillionDolla hunter
-# 15 Sec. SMA Bot
-# PROFIT HUNTER
-# Miracle Bot
-# Gold Bot
-# Support Macd Bot
-# BOT CALL 22
-# Follow Trend Binary Bot
-# Ultimate Digit Over Bot
-# Tick TickerRanger Bot
-# High-Profit Bot
+#
 # And All the manuall strategy...
 
 If you want to get bot/strategy one by one, 
